@@ -11,3 +11,4 @@ The applications I have installed, that have shortcuts in the file
 -gimp
 
 For fade ins and outs I also have compton installed, so do that.
+I use the gnome terminal like a normie, so please change that.
