@@ -1,0 +1,15 @@
+#theme 1
+
+bindsym $mod+d exec --no-startup-id i3-dmenu-desktop --dmenu="dmenu -nb #5c4f4b -nf #aea47f -sb #810008 -sf #181818"
+
+bar {
+        colors {
+                background #181818
+                statusline #aea47f
+                
+                #class                  #border #backgr #text
+                focused_workspace       #810009 #810009 #181818
+                active_workspace        #333333 #888888 #f5f5f5
+                inactive_workspace      #5c4f4b #5c4f4b #aea47f
+                urgent_workspace        #576d8c #576d8c #f4f4f4
+}
