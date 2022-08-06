@@ -17,6 +17,3 @@ interval=3
 command=date
 interval=1
 color="#bbbbbb"
-[python script test]
-command=python3 /home/dude/.config/i3blocks/python_test.py
-interval=once
